@@ -6,20 +6,31 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+At **Charisma Construction**, we specialize in **custom home building in the Greater Toronto Area (GTA)**. With a focus on **fine attention to detail** and **quality craftsmanship**, we bring your dream home to life. We work closely with **trusted contractors** to ensure every project meets the highest standards — from foundation to finishing touches.  
 
-Hugo makes use of a variety of open source projects including:
+With multiple successful custom homes completed, our goal is to provide a **stress-free, personalized construction experience** that reflects your vision and lifestyle.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+---
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+<img src="/img/dp/muhammad-azam.png" 
+     alt="Muhammad Azam" 
+     style="display: block; margin: 0 auto; width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+**Muhammad Azam**, the founder of Charisma Construction, brings **nearly a decade of experience** in renovation and construction across the GTA. Having completed projects in **Lakeshore, Streetsville, and Clarkson (Mississauga)**, he has **extensive knowledge of city zoning, construction practices, and permits/bylaws**.  
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Muhammad’s **hands-on approach** and commitment to **excellence** ensure that every project is executed with **precision and care**.
+
+---
+
+## Why Choose Charisma Construction
+
+- **Expertise in Custom Homes**: Every home is built to your vision with the highest attention to detail.  
+- **Trusted Contractors**: We collaborate with the best in the GTA for flawless results.  
+- **GTA Coverage**: Serving the entire Greater Toronto Area with experience in multiple neighborhoods.  
+- **Stress-Free Process**: From concept to completion, we guide you every step of the way.  
+
+---
+
+Experience the **difference that true craftsmanship and attention to detail** can make. Partner with **Charisma Construction** and bring your dream home to life.
+
