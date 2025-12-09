@@ -18,6 +18,9 @@ enableRobotsTXT = true
 
 [params]
 
+  description = "Charisma Construction"
+  default_og_image = "/img/logo.png"
+
   mainSections = ['portfolio']
 
   googleFonts = true

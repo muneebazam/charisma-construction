@@ -4,4 +4,22 @@ title: 'Contact'
 
 For any inquiries, please fill out the form below.
 
-{{< form >}}
+<form id="contact-form" name="contact" action="https://contact-form-worker.muneebazam45.workers.dev/" method="POST">
+    <div class="input mb-4">
+        <input type="text" placeholder="Name" name="name" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 w-full" required>
+    </div>
+    <div class="input mb-4">
+        <input type="email" placeholder="Email" name="mail" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 w-full" required>
+    </div>
+    <div class="input mb-4">
+        <input type="text" placeholder="Title" name="title" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 w-full" required>
+    </div>
+    <div class="input mb-4">
+        <textarea rows="5" cols="30" placeholder="Message" name="message" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 w-full" required></textarea>
+    </div>
+    <input type="submit" value="Submit" class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400">
+</form>
+
+<div id="form-response" style="margin-top: 1em; font-weight: bold;"></div>
+
+<script src="/js/contact-form.js"></script>
